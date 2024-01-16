@@ -1,0 +1,14 @@
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 3\Day 2 [Collections]\Array Exercise\bin\Debug\net7.0\Array Exercise.exe
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 3\Day 2 [Collections]\Array Exercise\bin\Debug\net7.0\Array Exercise.deps.json
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 3\Day 2 [Collections]\Array Exercise\bin\Debug\net7.0\Array Exercise.runtimeconfig.json
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 3\Day 2 [Collections]\Array Exercise\bin\Debug\net7.0\Array Exercise.dll
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 3\Day 2 [Collections]\Array Exercise\bin\Debug\net7.0\Array Exercise.pdb
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 3\Day 2 [Collections]\Array Exercise\obj\Debug\net7.0\Array Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 3\Day 2 [Collections]\Array Exercise\obj\Debug\net7.0\Array Exercise.AssemblyInfoInputs.cache
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 3\Day 2 [Collections]\Array Exercise\obj\Debug\net7.0\Array Exercise.AssemblyInfo.cs
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 3\Day 2 [Collections]\Array Exercise\obj\Debug\net7.0\Array Exercise.csproj.CoreCompileInputs.cache
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 3\Day 2 [Collections]\Array Exercise\obj\Debug\net7.0\Array Exercise.dll
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 3\Day 2 [Collections]\Array Exercise\obj\Debug\net7.0\refint\Array Exercise.dll
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 3\Day 2 [Collections]\Array Exercise\obj\Debug\net7.0\Array Exercise.pdb
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 3\Day 2 [Collections]\Array Exercise\obj\Debug\net7.0\Array Exercise.genruntimeconfig.cache
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 3\Day 2 [Collections]\Array Exercise\obj\Debug\net7.0\ref\Array Exercise.dll
